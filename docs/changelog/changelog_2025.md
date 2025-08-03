@@ -63,3 +63,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `ui`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-08-03 21:30:50 +0700] perf(portfolio): update portfolio implementation parameters
+- Type: `perf`
+- Scope: `portfolio`
+- Cycle: 2025 Telemetry Integration
+
