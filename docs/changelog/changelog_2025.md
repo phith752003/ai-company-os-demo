@@ -83,3 +83,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `router`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-08-04 18:08:27 +0700] refactor(store): extract reusable button and badge primitives into design system
+- Type: `refactor`
+- Scope: `store`
+- Cycle: 2025 Telemetry Integration
+
