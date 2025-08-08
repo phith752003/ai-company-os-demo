@@ -153,3 +153,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `styles`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-08-08 11:09:58 +0700] feat(seo): enhance seo implementation parameters
+- Type: `feat`
+- Scope: `seo`
+- Cycle: 2025 Telemetry Integration
+
