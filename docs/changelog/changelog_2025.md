@@ -203,3 +203,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `components`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-08-11 17:23:56 +0700] refactor(styles): extract reusable button and badge primitives into design system
+- Type: `refactor`
+- Scope: `styles`
+- Cycle: 2025 Telemetry Integration
+
