@@ -193,3 +193,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `router`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-08-11 12:01:16 +0700] perf(store): lazy load offscreen project showcase images
+- Type: `perf`
+- Scope: `store`
+- Cycle: 2025 Telemetry Integration
+
