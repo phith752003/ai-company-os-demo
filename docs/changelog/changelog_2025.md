@@ -213,3 +213,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `seo`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-08-12 10:06:41 +0700] style(animations): update animations implementation parameters
+- Type: `style`
+- Scope: `animations`
+- Cycle: 2025 Telemetry Integration
+
