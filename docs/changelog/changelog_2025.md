@@ -243,3 +243,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `auth`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-08-13 12:08:15 +0700] feat(router): optimize router implementation parameters
+- Type: `feat`
+- Scope: `router`
+- Cycle: 2025 Telemetry Integration
+
