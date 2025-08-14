@@ -268,3 +268,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `seo`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-08-14 11:20:00 +0700] feat(animations): implement dynamic contact modal with form validation
+- Type: `feat`
+- Scope: `animations`
+- Cycle: 2025 Telemetry Integration
+
