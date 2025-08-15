@@ -298,3 +298,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `auth`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-08-15 11:08:55 +0700] fix(router): correct image aspect ratio distortion on ultrawide viewports
+- Type: `fix`
+- Scope: `router`
+- Cycle: 2025 Telemetry Integration
+
