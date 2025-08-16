@@ -318,3 +318,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `styles`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-08-16 23:43:02 +0700] refactor(seo): refine seo implementation parameters
+- Type: `refactor`
+- Scope: `seo`
+- Cycle: 2025 Telemetry Integration
+
