@@ -408,3 +408,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `auth`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-08-20 17:38:33 +0700] fix(router): harden router implementation parameters
+- Type: `fix`
+- Scope: `router`
+- Cycle: 2025 Telemetry Integration
+
