@@ -428,3 +428,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `styles`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-08-21 18:35:54 +0700] perf(seo): implement route-level code splitting and tree shaking
+- Type: `perf`
+- Scope: `seo`
+- Cycle: 2025 Telemetry Integration
+
