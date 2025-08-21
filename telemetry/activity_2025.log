@@ -85,3 +85,4 @@
 [2025-08-20 14:01:32 +0700] [COMMIT #81] feat(auth): implement resume download tracking and telemetry logging [status: ok]
 [2025-08-20 17:38:33 +0700] [COMMIT #82] fix(router): harden router implementation parameters [status: ok]
 [2025-08-20 17:47:43 +0700] [COMMIT #83] fix(store): fix mobile navbar toggle state preservation on route change [status: ok]
+[2025-08-21 09:24:30 +0700] [COMMIT #84] fix(components): correct image aspect ratio distortion on ultrawide viewports [status: ok]
