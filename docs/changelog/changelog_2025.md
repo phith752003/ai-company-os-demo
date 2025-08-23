@@ -448,3 +448,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `ui`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-08-23 11:30:41 +0700] style(portfolio): tune accent gradient hues and glowing shadow drop values
+- Type: `style`
+- Scope: `portfolio`
+- Cycle: 2025 Telemetry Integration
+
