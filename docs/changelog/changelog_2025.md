@@ -528,3 +528,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `store`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-08-26 11:05:05 +0700] fix(components): audit components implementation parameters
+- Type: `fix`
+- Scope: `components`
+- Cycle: 2025 Telemetry Integration
+
