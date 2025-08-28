@@ -558,3 +558,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `ui`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-08-28 22:49:01 +0700] refactor(portfolio): harden portfolio implementation parameters
+- Type: `refactor`
+- Scope: `portfolio`
+- Cycle: 2025 Telemetry Integration
+
