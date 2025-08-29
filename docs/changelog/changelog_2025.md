@@ -573,3 +573,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `auth`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-08-29 23:34:50 +0700] style(router): align router implementation parameters
+- Type: `style`
+- Scope: `router`
+- Cycle: 2025 Telemetry Integration
+
