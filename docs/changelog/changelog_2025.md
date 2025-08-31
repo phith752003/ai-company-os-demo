@@ -623,3 +623,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `api`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-08-31 21:43:05 +0700] feat(auth): support dark/light mode toggle with system preference sync
+- Type: `feat`
+- Scope: `auth`
+- Cycle: 2025 Telemetry Integration
+
