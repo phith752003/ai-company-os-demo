@@ -663,3 +663,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `telemetry`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-09-02 16:31:59 +0700] perf(ui): update ui implementation parameters
+- Type: `perf`
+- Scope: `ui`
+- Cycle: 2025 Telemetry Integration
+
