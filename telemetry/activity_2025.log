@@ -139,3 +139,4 @@
 [2025-09-02 22:48:46 +0700] [COMMIT #135] perf(api): lazy load offscreen project showcase images [status: ok]
 [2025-09-02 23:16:51 +0700] [COMMIT #136] refactor(auth): audit auth implementation parameters [status: ok]
 [2025-09-03 09:38:29 +0700] [COMMIT #137] refactor(router): extract reusable button and badge primitives into design system [status: ok]
+[2025-09-03 10:21:07 +0700] [COMMIT #138] style(store): tune accent gradient hues and glowing shadow drop values [status: ok]
