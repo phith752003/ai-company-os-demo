@@ -808,3 +808,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `components`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-09-08 08:44:52 +0700] style(styles): tune accent gradient hues and glowing shadow drop values
+- Type: `style`
+- Scope: `styles`
+- Cycle: 2025 Telemetry Integration
+
