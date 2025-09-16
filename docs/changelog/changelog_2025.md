@@ -983,3 +983,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `seo`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-09-16 15:31:03 +0700] feat(animations): support dark/light mode toggle with system preference sync
+- Type: `feat`
+- Scope: `animations`
+- Cycle: 2025 Telemetry Integration
+
