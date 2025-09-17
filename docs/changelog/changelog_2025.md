@@ -1008,3 +1008,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `api`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-09-17 17:35:52 +0700] fix(auth): harden auth implementation parameters
+- Type: `fix`
+- Scope: `auth`
+- Cycle: 2025 Telemetry Integration
+
