@@ -1068,3 +1068,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `auth`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-09-20 20:09:01 +0700] test(router): refine router implementation parameters
+- Type: `test`
+- Scope: `router`
+- Cycle: 2025 Telemetry Integration
+
