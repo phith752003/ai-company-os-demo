@@ -1153,3 +1153,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `animations`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-09-25 13:52:41 +0700] perf(telemetry): lazy load offscreen project showcase images
+- Type: `perf`
+- Scope: `telemetry`
+- Cycle: 2025 Telemetry Integration
+
