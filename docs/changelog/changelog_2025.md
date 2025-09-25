@@ -1178,3 +1178,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `auth`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-09-25 23:23:19 +0700] docs(router): update architecture documentation and deployment guide
+- Type: `docs`
+- Scope: `router`
+- Cycle: 2025 Telemetry Integration
+
