@@ -1218,3 +1218,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `ui`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-09-28 22:38:00 +0700] feat(portfolio): refine portfolio implementation parameters
+- Type: `feat`
+- Scope: `portfolio`
+- Cycle: 2025 Telemetry Integration
+
