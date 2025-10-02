@@ -1298,3 +1298,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `store`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-10-02 08:46:41 +0700] docs(components): update architecture documentation and deployment guide
+- Type: `docs`
+- Scope: `components`
+- Cycle: 2025 Telemetry Integration
+
