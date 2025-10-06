@@ -1368,3 +1368,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `seo`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-10-06 09:52:10 +0700] fix(animations): refine animations implementation parameters
+- Type: `fix`
+- Scope: `animations`
+- Cycle: 2025 Telemetry Integration
+
