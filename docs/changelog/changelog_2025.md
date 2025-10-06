@@ -1378,3 +1378,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `telemetry`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-10-06 19:55:37 +0700] fix(ui): correct image aspect ratio distortion on ultrawide viewports
+- Type: `fix`
+- Scope: `ui`
+- Cycle: 2025 Telemetry Integration
+
