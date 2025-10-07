@@ -1398,3 +1398,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `auth`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-10-07 21:36:55 +0700] refactor(router): streamline router implementation parameters
+- Type: `refactor`
+- Scope: `router`
+- Cycle: 2025 Telemetry Integration
+
