@@ -1423,3 +1423,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `seo`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-10-09 18:42:09 +0700] chore(animations): update TailwindCSS config and font asset configurations
+- Type: `chore`
+- Scope: `animations`
+- Cycle: 2025 Telemetry Integration
+
