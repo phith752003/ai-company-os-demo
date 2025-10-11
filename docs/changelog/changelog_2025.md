@@ -1458,3 +1458,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `router`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-10-11 18:12:19 +0700] feat(store): harden store implementation parameters
+- Type: `feat`
+- Scope: `store`
+- Cycle: 2025 Telemetry Integration
+
