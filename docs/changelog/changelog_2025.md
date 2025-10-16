@@ -1553,3 +1553,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `portfolio`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-10-16 11:55:13 +0700] feat(api): add interactive particle background canvas effect
+- Type: `feat`
+- Scope: `api`
+- Cycle: 2025 Telemetry Integration
+
