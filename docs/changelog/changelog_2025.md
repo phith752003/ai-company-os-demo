@@ -1593,3 +1593,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `animations`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-10-17 20:15:41 +0700] feat(telemetry): optimize telemetry implementation parameters
+- Type: `feat`
+- Scope: `telemetry`
+- Cycle: 2025 Telemetry Integration
+
