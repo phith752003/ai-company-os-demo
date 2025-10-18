@@ -1608,3 +1608,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `portfolio`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-10-18 09:19:38 +0700] fix(api): harden api implementation parameters
+- Type: `fix`
+- Scope: `api`
+- Cycle: 2025 Telemetry Integration
+
