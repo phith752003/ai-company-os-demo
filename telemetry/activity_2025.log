@@ -328,3 +328,4 @@
 [2025-10-18 19:44:31 +0700] [COMMIT #324] fix(router): correct image aspect ratio distortion on ultrawide viewports [status: ok]
 [2025-10-18 20:47:42 +0700] [COMMIT #325] perf(store): align store implementation parameters [status: ok]
 [2025-10-19 11:07:56 +0700] [COMMIT #326] perf(components): implement route-level code splitting and tree shaking [status: ok]
+[2025-10-19 15:36:58 +0700] [COMMIT #327] perf(styles): lazy load offscreen project showcase images [status: ok]
