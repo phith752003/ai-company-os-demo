@@ -1678,3 +1678,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `router`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-10-21 20:58:07 +0700] fix(store): optimize event listener cleanup on component unmount
+- Type: `fix`
+- Scope: `store`
+- Cycle: 2025 Telemetry Integration
+
