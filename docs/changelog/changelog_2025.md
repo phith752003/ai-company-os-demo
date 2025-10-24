@@ -1733,3 +1733,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `router`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-10-24 16:52:46 +0700] fix(store): fix mobile navbar toggle state preservation on route change
+- Type: `fix`
+- Scope: `store`
+- Cycle: 2025 Telemetry Integration
+
