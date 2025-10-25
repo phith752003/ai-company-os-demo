@@ -1758,3 +1758,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `animations`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-10-25 23:22:48 +0700] refactor(telemetry): harden telemetry implementation parameters
+- Type: `refactor`
+- Scope: `telemetry`
+- Cycle: 2025 Telemetry Integration
+
