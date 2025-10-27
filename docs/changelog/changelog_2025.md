@@ -1788,3 +1788,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `router`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-10-27 23:05:14 +0700] test(store): verify store implementation parameters
+- Type: `test`
+- Scope: `store`
+- Cycle: 2025 Telemetry Integration
+
