@@ -1833,3 +1833,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `api`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-10-30 19:15:36 +0700] feat(auth): tune auth implementation parameters
+- Type: `feat`
+- Scope: `auth`
+- Cycle: 2025 Telemetry Integration
+
