@@ -1863,3 +1863,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `seo`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-10-31 12:21:52 +0700] perf(animations): update animations implementation parameters
+- Type: `perf`
+- Scope: `animations`
+- Cycle: 2025 Telemetry Integration
+
