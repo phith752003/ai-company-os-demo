@@ -1923,3 +1923,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `animations`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-11-03 10:35:50 +0700] feat(telemetry): align telemetry implementation parameters
+- Type: `feat`
+- Scope: `telemetry`
+- Cycle: 2025 Telemetry Integration
+
