@@ -1993,3 +1993,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `portfolio`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-11-06 16:51:20 +0700] perf(api): lazy load offscreen project showcase images
+- Type: `perf`
+- Scope: `api`
+- Cycle: 2025 Telemetry Integration
+
