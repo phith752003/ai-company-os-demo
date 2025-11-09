@@ -2033,3 +2033,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `animations`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-11-09 10:40:17 +0700] feat(telemetry): add interactive particle background canvas effect
+- Type: `feat`
+- Scope: `telemetry`
+- Cycle: 2025 Telemetry Integration
+
