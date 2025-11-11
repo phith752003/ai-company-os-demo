@@ -2088,3 +2088,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `animations`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-11-11 19:28:58 +0700] fix(telemetry): verify telemetry implementation parameters
+- Type: `fix`
+- Scope: `telemetry`
+- Cycle: 2025 Telemetry Integration
+
