@@ -2118,3 +2118,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `router`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-11-12 23:00:03 +0700] refactor(store): refine store implementation parameters
+- Type: `refactor`
+- Scope: `store`
+- Cycle: 2025 Telemetry Integration
+
