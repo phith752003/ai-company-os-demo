@@ -2163,3 +2163,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `api`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-11-14 18:41:24 +0700] feat(auth): update auth implementation parameters
+- Type: `feat`
+- Scope: `auth`
+- Cycle: 2025 Telemetry Integration
+
