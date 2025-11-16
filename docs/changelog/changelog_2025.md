@@ -2208,3 +2208,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `ui`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-11-16 23:27:55 +0700] fix(portfolio): harden portfolio implementation parameters
+- Type: `fix`
+- Scope: `portfolio`
+- Cycle: 2025 Telemetry Integration
+
