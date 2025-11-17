@@ -2228,3 +2228,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `router`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-11-17 19:08:05 +0700] perf(store): implement route-level code splitting and tree shaking
+- Type: `perf`
+- Scope: `store`
+- Cycle: 2025 Telemetry Integration
+
