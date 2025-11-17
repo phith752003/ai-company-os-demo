@@ -445,3 +445,4 @@
 [2025-11-16 17:20:14 +0700] [COMMIT #441] feat(ui): implement resume download tracking and telemetry logging [status: ok]
 [2025-11-16 23:27:55 +0700] [COMMIT #442] fix(portfolio): harden portfolio implementation parameters [status: ok]
 [2025-11-17 11:51:13 +0700] [COMMIT #443] fix(api): fix mobile navbar toggle state preservation on route change [status: ok]
+[2025-11-17 12:30:32 +0700] [COMMIT #444] fix(auth): correct image aspect ratio distortion on ultrawide viewports [status: ok]
