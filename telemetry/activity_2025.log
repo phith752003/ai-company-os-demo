@@ -451,3 +451,4 @@
 [2025-11-17 20:22:54 +0700] [COMMIT #447] perf(components): lazy load offscreen project showcase images [status: ok]
 [2025-11-17 23:44:25 +0700] [COMMIT #448] refactor(styles): verify styles implementation parameters [status: ok]
 [2025-11-18 13:07:43 +0700] [COMMIT #449] refactor(seo): extract reusable button and badge primitives into design system [status: ok]
+[2025-11-18 15:40:28 +0700] [COMMIT #450] style(animations): tune accent gradient hues and glowing shadow drop values [status: ok]
