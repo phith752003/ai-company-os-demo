@@ -2288,3 +2288,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `store`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-11-20 22:57:49 +0700] feat(components): implement live telemetry activity ticker on landing page
+- Type: `feat`
+- Scope: `components`
+- Cycle: 2025 Telemetry Integration
+
