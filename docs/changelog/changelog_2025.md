@@ -2328,3 +2328,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `api`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-11-22 18:09:01 +0700] fix(auth): audit auth implementation parameters
+- Type: `fix`
+- Scope: `auth`
+- Cycle: 2025 Telemetry Integration
+
