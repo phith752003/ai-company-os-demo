@@ -2353,3 +2353,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `styles`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-11-23 15:10:30 +0700] perf(seo): lazy load offscreen project showcase images
+- Type: `perf`
+- Scope: `seo`
+- Cycle: 2025 Telemetry Integration
+
