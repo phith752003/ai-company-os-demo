@@ -2388,3 +2388,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `auth`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-11-25 20:47:21 +0700] test(router): verify router implementation parameters
+- Type: `test`
+- Scope: `router`
+- Cycle: 2025 Telemetry Integration
+
