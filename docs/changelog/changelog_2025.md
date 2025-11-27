@@ -2423,3 +2423,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `telemetry`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-11-27 14:16:05 +0700] feat(ui): support dark/light mode toggle with system preference sync
+- Type: `feat`
+- Scope: `ui`
+- Cycle: 2025 Telemetry Integration
+
