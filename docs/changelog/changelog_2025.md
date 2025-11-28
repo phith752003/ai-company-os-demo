@@ -2448,3 +2448,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `router`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-11-28 11:43:08 +0700] fix(store): streamline store implementation parameters
+- Type: `fix`
+- Scope: `store`
+- Cycle: 2025 Telemetry Integration
+
