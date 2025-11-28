@@ -2443,3 +2443,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `auth`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-11-28 10:53:08 +0700] feat(router): implement resume download tracking and telemetry logging
+- Type: `feat`
+- Scope: `router`
+- Cycle: 2025 Telemetry Integration
+
