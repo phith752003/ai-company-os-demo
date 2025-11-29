@@ -498,3 +498,4 @@
 [2025-11-29 14:35:00 +0700] [COMMIT #494] perf(animations): implement route-level code splitting and tree shaking [status: ok]
 [2025-11-29 19:48:51 +0700] [COMMIT #495] perf(telemetry): lazy load offscreen project showcase images [status: ok]
 [2025-11-29 20:36:08 +0700] [COMMIT #496] refactor(ui): audit ui implementation parameters [status: ok]
+[2025-11-29 20:50:43 +0700] [COMMIT #497] refactor(portfolio): extract reusable button and badge primitives into design system [status: ok]
