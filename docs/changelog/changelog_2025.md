@@ -2518,3 +2518,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `styles`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-12-02 12:29:46 +0700] fix(seo): optimize event listener cleanup on component unmount
+- Type: `fix`
+- Scope: `seo`
+- Cycle: 2025 Telemetry Integration
+
