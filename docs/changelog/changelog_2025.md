@@ -2583,3 +2583,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `animations`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-12-04 20:57:42 +0700] perf(telemetry): tune telemetry implementation parameters
+- Type: `perf`
+- Scope: `telemetry`
+- Cycle: 2025 Telemetry Integration
+
