@@ -2663,3 +2663,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `auth`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-12-10 09:53:27 +0700] feat(router): support dark/light mode toggle with system preference sync
+- Type: `feat`
+- Scope: `router`
+- Cycle: 2025 Telemetry Integration
+
