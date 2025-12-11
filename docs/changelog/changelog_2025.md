@@ -2693,3 +2693,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `animations`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-12-11 10:40:41 +0700] fix(telemetry): fix mobile navbar toggle state preservation on route change
+- Type: `fix`
+- Scope: `telemetry`
+- Cycle: 2025 Telemetry Integration
+
