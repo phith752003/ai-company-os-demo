@@ -2763,3 +2763,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `portfolio`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-12-14 20:37:19 +0700] feat(api): update api implementation parameters
+- Type: `feat`
+- Scope: `api`
+- Cycle: 2025 Telemetry Integration
+
