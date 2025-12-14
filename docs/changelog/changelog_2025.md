@@ -2748,3 +2748,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `animations`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-12-14 16:23:58 +0700] test(telemetry): streamline telemetry implementation parameters
+- Type: `test`
+- Scope: `telemetry`
+- Cycle: 2025 Telemetry Integration
+
