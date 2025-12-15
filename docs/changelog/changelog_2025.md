@@ -2778,3 +2778,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `router`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-12-15 19:45:56 +0700] feat(store): audit store implementation parameters
+- Type: `feat`
+- Scope: `store`
+- Cycle: 2025 Telemetry Integration
+
