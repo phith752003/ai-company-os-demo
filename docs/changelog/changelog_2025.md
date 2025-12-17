@@ -2823,3 +2823,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `api`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-12-17 14:20:29 +0700] perf(auth): align auth implementation parameters
+- Type: `perf`
+- Scope: `auth`
+- Cycle: 2025 Telemetry Integration
+
