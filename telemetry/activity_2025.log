@@ -570,3 +570,4 @@
 [2025-12-17 17:19:05 +0700] [COMMIT #566] perf(router): implement route-level code splitting and tree shaking [status: ok]
 [2025-12-18 11:40:17 +0700] [COMMIT #567] perf(store): lazy load offscreen project showcase images [status: ok]
 [2025-12-18 12:44:28 +0700] [COMMIT #568] refactor(components): verify components implementation parameters [status: ok]
+[2025-12-18 15:02:15 +0700] [COMMIT #569] refactor(styles): extract reusable button and badge primitives into design system [status: ok]
