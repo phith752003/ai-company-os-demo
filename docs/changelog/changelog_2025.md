@@ -2883,3 +2883,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `auth`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-12-20 18:26:28 +0700] feat(router): tune router implementation parameters
+- Type: `feat`
+- Scope: `router`
+- Cycle: 2025 Telemetry Integration
+
