@@ -2978,3 +2978,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `ui`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-12-25 20:26:57 +0700] docs(portfolio): update architecture documentation and deployment guide
+- Type: `docs`
+- Scope: `portfolio`
+- Cycle: 2025 Telemetry Integration
+
