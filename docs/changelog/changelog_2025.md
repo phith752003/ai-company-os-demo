@@ -3003,3 +3003,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `store`
 - Cycle: 2025 Telemetry Integration
 
+### [2025-12-27 13:13:01 +0700] feat(components): enhance components implementation parameters
+- Type: `feat`
+- Scope: `components`
+- Cycle: 2025 Telemetry Integration
+
