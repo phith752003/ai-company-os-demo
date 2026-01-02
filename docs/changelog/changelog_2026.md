@@ -28,3 +28,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `router`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-02 19:54:53 +0700] feat(store): implement dynamic contact modal with form validation
+- Type: `feat`
+- Scope: `store`
+- Cycle: 2026 Telemetry Integration
+
