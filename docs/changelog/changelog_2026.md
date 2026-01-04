@@ -48,3 +48,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `seo`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-04 16:52:17 +0700] fix(animations): streamline animations implementation parameters
+- Type: `fix`
+- Scope: `animations`
+- Cycle: 2026 Telemetry Integration
+
