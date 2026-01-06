@@ -98,3 +98,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `styles`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-06 21:25:04 +0700] docs(seo): update architecture documentation and deployment guide
+- Type: `docs`
+- Scope: `seo`
+- Cycle: 2026 Telemetry Integration
+
