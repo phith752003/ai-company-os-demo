@@ -108,3 +108,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `animations`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-07 14:53:40 +0700] test(telemetry): harden telemetry implementation parameters
+- Type: `test`
+- Scope: `telemetry`
+- Cycle: 2026 Telemetry Integration
+
