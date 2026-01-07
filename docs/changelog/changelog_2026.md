@@ -123,3 +123,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `portfolio`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-07 22:52:53 +0700] feat(api): align api implementation parameters
+- Type: `feat`
+- Scope: `api`
+- Cycle: 2026 Telemetry Integration
+
