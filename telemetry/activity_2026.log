@@ -40,3 +40,4 @@
 [2026-01-10 09:45:50 +0700] [COMMIT #36] fix(api): correct image aspect ratio distortion on ultrawide viewports [status: ok]
 [2026-01-10 20:30:23 +0700] [COMMIT #37] perf(auth): tune auth implementation parameters [status: ok]
 [2026-01-10 20:51:33 +0700] [COMMIT #38] perf(router): implement route-level code splitting and tree shaking [status: ok]
+[2026-01-11 13:55:35 +0700] [COMMIT #39] perf(store): lazy load offscreen project showcase images [status: ok]
