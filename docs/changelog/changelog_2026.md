@@ -198,3 +198,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `store`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-11 20:21:47 +0700] refactor(components): streamline components implementation parameters
+- Type: `refactor`
+- Scope: `components`
+- Cycle: 2026 Telemetry Integration
+
