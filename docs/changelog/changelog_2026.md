@@ -218,3 +218,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `animations`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-13 19:21:27 +0700] docs(telemetry): update architecture documentation and deployment guide
+- Type: `docs`
+- Scope: `telemetry`
+- Cycle: 2026 Telemetry Integration
+
