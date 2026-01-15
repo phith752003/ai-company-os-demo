@@ -253,3 +253,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `store`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-15 21:59:00 +0700] feat(components): add responsive cyberpunk glassmorphism card components
+- Type: `feat`
+- Scope: `components`
+- Cycle: 2026 Telemetry Integration
+
