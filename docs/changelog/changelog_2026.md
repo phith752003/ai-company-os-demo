@@ -303,3 +303,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `router`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-19 13:13:43 +0700] perf(store): enhance store implementation parameters
+- Type: `perf`
+- Scope: `store`
+- Cycle: 2026 Telemetry Integration
+
