@@ -328,3 +328,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `animations`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-20 21:57:53 +0700] style(telemetry): tune accent gradient hues and glowing shadow drop values
+- Type: `style`
+- Scope: `telemetry`
+- Cycle: 2026 Telemetry Integration
+
