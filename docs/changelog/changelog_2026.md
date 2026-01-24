@@ -388,3 +388,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `telemetry`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-24 12:10:11 +0700] feat(ui): implement dynamic contact modal with form validation
+- Type: `feat`
+- Scope: `ui`
+- Cycle: 2026 Telemetry Integration
+
