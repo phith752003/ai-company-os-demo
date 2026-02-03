@@ -538,3 +538,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `styles`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-03 17:20:35 +0700] fix(seo): correct image aspect ratio distortion on ultrawide viewports
+- Type: `fix`
+- Scope: `seo`
+- Cycle: 2026 Telemetry Integration
+
