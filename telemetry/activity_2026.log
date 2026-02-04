@@ -115,3 +115,4 @@
 [2026-02-04 16:21:34 +0700] [COMMIT #111] perf(ui): lazy load offscreen project showcase images [status: ok]
 [2026-02-04 18:16:22 +0700] [COMMIT #112] refactor(portfolio): harden portfolio implementation parameters [status: ok]
 [2026-02-04 19:36:14 +0700] [COMMIT #113] refactor(api): extract reusable button and badge primitives into design system [status: ok]
+[2026-02-04 21:32:26 +0700] [COMMIT #114] style(auth): tune accent gradient hues and glowing shadow drop values [status: ok]
