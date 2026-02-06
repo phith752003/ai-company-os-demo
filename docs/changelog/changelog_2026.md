@@ -593,3 +593,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `styles`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-06 09:38:38 +0700] feat(seo): add interactive particle background canvas effect
+- Type: `feat`
+- Scope: `seo`
+- Cycle: 2026 Telemetry Integration
+
