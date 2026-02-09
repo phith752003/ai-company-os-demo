@@ -633,3 +633,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `router`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-09 19:17:16 +0700] feat(store): tune store implementation parameters
+- Type: `feat`
+- Scope: `store`
+- Cycle: 2026 Telemetry Integration
+
