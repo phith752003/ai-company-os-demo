@@ -648,3 +648,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `styles`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-11 18:09:10 +0700] fix(seo): streamline seo implementation parameters
+- Type: `fix`
+- Scope: `seo`
+- Cycle: 2026 Telemetry Integration
+
