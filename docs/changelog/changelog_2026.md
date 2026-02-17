@@ -743,3 +743,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `router`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-17 15:39:57 +0700] feat(store): support dark/light mode toggle with system preference sync
+- Type: `feat`
+- Scope: `store`
+- Cycle: 2026 Telemetry Integration
+
