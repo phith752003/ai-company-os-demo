@@ -813,3 +813,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `styles`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-20 23:01:12 +0700] style(seo): update seo implementation parameters
+- Type: `style`
+- Scope: `seo`
+- Cycle: 2026 Telemetry Integration
+
