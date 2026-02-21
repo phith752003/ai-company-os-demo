@@ -818,3 +818,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `seo`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-21 14:47:33 +0700] docs(animations): update architecture documentation and deployment guide
+- Type: `docs`
+- Scope: `animations`
+- Cycle: 2026 Telemetry Integration
+
