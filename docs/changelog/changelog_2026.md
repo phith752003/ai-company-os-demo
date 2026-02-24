@@ -853,3 +853,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `router`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-24 17:11:36 +0700] feat(store): add responsive cyberpunk glassmorphism card components
+- Type: `feat`
+- Scope: `store`
+- Cycle: 2026 Telemetry Integration
+
