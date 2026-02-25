@@ -873,3 +873,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `seo`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-25 17:35:52 +0700] feat(animations): align animations implementation parameters
+- Type: `feat`
+- Scope: `animations`
+- Cycle: 2026 Telemetry Integration
+
