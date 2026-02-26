@@ -883,3 +883,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `telemetry`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-26 15:21:02 +0700] feat(ui): implement resume download tracking and telemetry logging
+- Type: `feat`
+- Scope: `ui`
+- Cycle: 2026 Telemetry Integration
+
