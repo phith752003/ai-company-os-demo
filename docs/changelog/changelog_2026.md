@@ -1058,3 +1058,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `portfolio`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-09 19:04:16 +0700] docs(api): update architecture documentation and deployment guide
+- Type: `docs`
+- Scope: `api`
+- Cycle: 2026 Telemetry Integration
+
