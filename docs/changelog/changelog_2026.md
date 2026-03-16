@@ -1148,3 +1148,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `seo`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-16 09:11:02 +0700] perf(animations): implement route-level code splitting and tree shaking
+- Type: `perf`
+- Scope: `animations`
+- Cycle: 2026 Telemetry Integration
+
