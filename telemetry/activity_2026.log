@@ -237,3 +237,4 @@
 [2026-03-16 22:40:41 +0700] [COMMIT #233] refactor(portfolio): extract reusable button and badge primitives into design system [status: ok]
 [2026-03-17 09:52:10 +0700] [COMMIT #234] style(api): tune accent gradient hues and glowing shadow drop values [status: ok]
 [2026-03-17 14:56:36 +0700] [COMMIT #235] style(auth): align auth implementation parameters [status: ok]
+[2026-03-17 19:55:37 +0700] [COMMIT #236] docs(router): update architecture documentation and deployment guide [status: ok]
