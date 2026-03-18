@@ -1183,3 +1183,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `router`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-18 09:03:57 +0700] chore(store): update TailwindCSS config and font asset configurations
+- Type: `chore`
+- Scope: `store`
+- Cycle: 2026 Telemetry Integration
+
