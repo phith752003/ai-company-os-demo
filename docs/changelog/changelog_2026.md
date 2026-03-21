@@ -1238,3 +1238,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `router`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-21 12:35:00 +0700] feat(store): add smooth page transition animations using framer-motion/CSS
+- Type: `feat`
+- Scope: `store`
+- Cycle: 2026 Telemetry Integration
+
