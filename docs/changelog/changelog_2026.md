@@ -1263,3 +1263,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `animations`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-23 13:11:13 +0700] perf(telemetry): update telemetry implementation parameters
+- Type: `perf`
+- Scope: `telemetry`
+- Cycle: 2026 Telemetry Integration
+
