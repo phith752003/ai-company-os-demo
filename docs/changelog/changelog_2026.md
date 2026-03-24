@@ -1288,3 +1288,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `auth`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-24 15:05:20 +0700] style(router): tune accent gradient hues and glowing shadow drop values
+- Type: `style`
+- Scope: `router`
+- Cycle: 2026 Telemetry Integration
+
