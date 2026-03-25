@@ -1293,3 +1293,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `router`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-25 13:09:24 +0700] style(store): optimize store implementation parameters
+- Type: `style`
+- Scope: `store`
+- Cycle: 2026 Telemetry Integration
+
