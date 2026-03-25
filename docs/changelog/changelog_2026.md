@@ -1308,3 +1308,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `styles`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-25 17:39:58 +0700] test(seo): harden seo implementation parameters
+- Type: `test`
+- Scope: `seo`
+- Cycle: 2026 Telemetry Integration
+
