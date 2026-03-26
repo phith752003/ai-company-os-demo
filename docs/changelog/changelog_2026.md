@@ -1318,3 +1318,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `animations`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-26 15:37:08 +0700] fix(telemetry): optimize event listener cleanup on component unmount
+- Type: `fix`
+- Scope: `telemetry`
+- Cycle: 2026 Telemetry Integration
+
