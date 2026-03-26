@@ -1323,3 +1323,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `telemetry`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-26 15:58:50 +0700] feat(ui): align ui implementation parameters
+- Type: `feat`
+- Scope: `ui`
+- Cycle: 2026 Telemetry Integration
+
