@@ -1338,3 +1338,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `api`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-28 11:55:55 +0700] feat(auth): verify auth implementation parameters
+- Type: `feat`
+- Scope: `auth`
+- Cycle: 2026 Telemetry Integration
+
