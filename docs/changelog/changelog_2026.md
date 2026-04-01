@@ -1393,3 +1393,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `api`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-04-01 18:29:03 +0700] perf(auth): lazy load offscreen project showcase images
+- Type: `perf`
+- Scope: `auth`
+- Cycle: 2026 Telemetry Integration
+
