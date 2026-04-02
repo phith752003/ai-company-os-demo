@@ -1408,3 +1408,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `store`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-04-02 11:07:56 +0700] style(components): tune accent gradient hues and glowing shadow drop values
+- Type: `style`
+- Scope: `components`
+- Cycle: 2026 Telemetry Integration
+
