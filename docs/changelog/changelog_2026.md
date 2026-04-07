@@ -1473,3 +1473,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `styles`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-04-07 14:38:25 +0700] feat(seo): align seo implementation parameters
+- Type: `feat`
+- Scope: `seo`
+- Cycle: 2026 Telemetry Integration
+
