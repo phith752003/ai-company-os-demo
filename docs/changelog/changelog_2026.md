@@ -1463,3 +1463,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `store`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-04-07 13:44:58 +0700] feat(components): support dark/light mode toggle with system preference sync
+- Type: `feat`
+- Scope: `components`
+- Cycle: 2026 Telemetry Integration
+
