@@ -1623,3 +1623,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `router`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-04-17 12:47:40 +0700] perf(store): align store implementation parameters
+- Type: `perf`
+- Scope: `store`
+- Cycle: 2026 Telemetry Integration
+
