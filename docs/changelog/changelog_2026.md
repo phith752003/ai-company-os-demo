@@ -1628,3 +1628,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `store`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-04-17 15:48:00 +0700] perf(components): implement route-level code splitting and tree shaking
+- Type: `perf`
+- Scope: `components`
+- Cycle: 2026 Telemetry Integration
+
