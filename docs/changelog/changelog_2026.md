@@ -1633,3 +1633,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `components`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-04-17 16:55:09 +0700] perf(styles): lazy load offscreen project showcase images
+- Type: `perf`
+- Scope: `styles`
+- Cycle: 2026 Telemetry Integration
+
