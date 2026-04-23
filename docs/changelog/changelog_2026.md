@@ -1718,3 +1718,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `portfolio`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-04-23 15:53:13 +0700] feat(api): add smooth page transition animations using framer-motion/CSS
+- Type: `feat`
+- Scope: `api`
+- Cycle: 2026 Telemetry Integration
+
