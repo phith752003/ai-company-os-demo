@@ -1728,3 +1728,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `auth`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-04-23 16:32:13 +0700] fix(router): audit router implementation parameters
+- Type: `fix`
+- Scope: `router`
+- Cycle: 2026 Telemetry Integration
+
