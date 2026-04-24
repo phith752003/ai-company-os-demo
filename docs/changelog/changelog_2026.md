@@ -1753,3 +1753,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `seo`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-04-24 21:42:17 +0700] perf(animations): lazy load offscreen project showcase images
+- Type: `perf`
+- Scope: `animations`
+- Cycle: 2026 Telemetry Integration
+
