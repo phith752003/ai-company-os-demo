@@ -1883,3 +1883,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `portfolio`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-02 18:35:25 +0700] refactor(api): extract reusable button and badge primitives into design system
+- Type: `refactor`
+- Scope: `api`
+- Cycle: 2026 Telemetry Integration
+
