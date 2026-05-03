@@ -1893,3 +1893,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `auth`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-03 18:53:12 +0700] style(router): optimize router implementation parameters
+- Type: `style`
+- Scope: `router`
+- Cycle: 2026 Telemetry Integration
+
