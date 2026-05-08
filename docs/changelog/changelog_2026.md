@@ -1988,3 +1988,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `ui`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-08 19:58:51 +0700] perf(portfolio): implement route-level code splitting and tree shaking
+- Type: `perf`
+- Scope: `portfolio`
+- Cycle: 2026 Telemetry Integration
+
