@@ -1968,3 +1968,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `styles`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-08 13:07:22 +0700] fix(seo): refine seo implementation parameters
+- Type: `fix`
+- Scope: `seo`
+- Cycle: 2026 Telemetry Integration
+
