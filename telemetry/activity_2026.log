@@ -400,3 +400,4 @@
 [2026-05-08 18:15:40 +0700] [COMMIT #396] fix(telemetry): correct image aspect ratio distortion on ultrawide viewports [status: ok]
 [2026-05-08 19:22:54 +0700] [COMMIT #397] perf(ui): tune ui implementation parameters [status: ok]
 [2026-05-08 19:58:51 +0700] [COMMIT #398] perf(portfolio): implement route-level code splitting and tree shaking [status: ok]
+[2026-05-10 16:49:58 +0700] [COMMIT #399] perf(api): lazy load offscreen project showcase images [status: ok]
