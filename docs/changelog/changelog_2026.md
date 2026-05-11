@@ -1998,3 +1998,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `api`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-11 14:20:56 +0700] refactor(auth): streamline auth implementation parameters
+- Type: `refactor`
+- Scope: `auth`
+- Cycle: 2026 Telemetry Integration
+
