@@ -2003,3 +2003,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `auth`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-11 19:58:20 +0700] refactor(router): extract reusable button and badge primitives into design system
+- Type: `refactor`
+- Scope: `router`
+- Cycle: 2026 Telemetry Integration
+
