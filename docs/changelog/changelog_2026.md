@@ -2018,3 +2018,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `components`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-12 12:40:09 +0700] docs(styles): update architecture documentation and deployment guide
+- Type: `docs`
+- Scope: `styles`
+- Cycle: 2026 Telemetry Integration
+
