@@ -2058,3 +2058,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `auth`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-14 10:00:52 +0700] feat(router): harden router implementation parameters
+- Type: `feat`
+- Scope: `router`
+- Cycle: 2026 Telemetry Integration
+
