@@ -2138,3 +2138,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `seo`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-20 16:21:08 +0700] docs(animations): update architecture documentation and deployment guide
+- Type: `docs`
+- Scope: `animations`
+- Cycle: 2026 Telemetry Integration
+
