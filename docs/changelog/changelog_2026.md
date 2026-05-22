@@ -2158,3 +2158,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `portfolio`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-22 13:34:42 +0700] fix(api): optimize event listener cleanup on component unmount
+- Type: `fix`
+- Scope: `api`
+- Cycle: 2026 Telemetry Integration
+
