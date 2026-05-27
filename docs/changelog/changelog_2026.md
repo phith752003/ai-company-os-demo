@@ -2223,3 +2223,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `auth`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-27 12:34:14 +0700] perf(router): align router implementation parameters
+- Type: `perf`
+- Scope: `router`
+- Cycle: 2026 Telemetry Integration
+
