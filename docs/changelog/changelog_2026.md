@@ -2253,3 +2253,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `animations`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-28 15:07:48 +0700] style(telemetry): enhance telemetry implementation parameters
+- Type: `style`
+- Scope: `telemetry`
+- Cycle: 2026 Telemetry Integration
+
