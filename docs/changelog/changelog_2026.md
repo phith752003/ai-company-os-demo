@@ -2298,3 +2298,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `styles`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-30 18:32:56 +0700] feat(seo): streamline seo implementation parameters
+- Type: `feat`
+- Scope: `seo`
+- Cycle: 2026 Telemetry Integration
+
