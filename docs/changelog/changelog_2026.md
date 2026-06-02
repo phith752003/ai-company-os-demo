@@ -2333,3 +2333,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `auth`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-02 21:30:55 +0700] fix(router): fix mobile navbar toggle state preservation on route change
+- Type: `fix`
+- Scope: `router`
+- Cycle: 2026 Telemetry Integration
+
