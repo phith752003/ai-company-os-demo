@@ -2358,3 +2358,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `seo`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-03 14:40:08 +0700] refactor(animations): harden animations implementation parameters
+- Type: `refactor`
+- Scope: `animations`
+- Cycle: 2026 Telemetry Integration
+
