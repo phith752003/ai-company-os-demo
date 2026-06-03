@@ -2348,3 +2348,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `components`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-03 13:27:41 +0700] perf(styles): implement route-level code splitting and tree shaking
+- Type: `perf`
+- Scope: `styles`
+- Cycle: 2026 Telemetry Integration
+
