@@ -2418,3 +2418,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `animations`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-07 21:43:15 +0700] feat(telemetry): refine telemetry implementation parameters
+- Type: `feat`
+- Scope: `telemetry`
+- Cycle: 2026 Telemetry Integration
+
