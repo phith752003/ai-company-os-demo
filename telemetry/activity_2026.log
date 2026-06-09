@@ -492,3 +492,4 @@
 [2026-06-09 13:09:53 +0700] [COMMIT #488] feat(auth): add smooth page transition animations using framer-motion/CSS [status: ok]
 [2026-06-09 14:09:30 +0700] [COMMIT #489] feat(router): implement resume download tracking and telemetry logging [status: ok]
 [2026-06-09 16:15:19 +0700] [COMMIT #490] fix(store): streamline store implementation parameters [status: ok]
+[2026-06-09 21:50:47 +0700] [COMMIT #491] fix(components): fix mobile navbar toggle state preservation on route change [status: ok]
