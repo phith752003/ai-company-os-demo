@@ -2563,3 +2563,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `store`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-18 19:51:27 +0700] feat(components): implement resume download tracking and telemetry logging
+- Type: `feat`
+- Scope: `components`
+- Cycle: 2026 Telemetry Integration
+
