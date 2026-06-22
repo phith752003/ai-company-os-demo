@@ -2618,3 +2618,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `store`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-22 21:52:12 +0700] docs(components): update architecture documentation and deployment guide
+- Type: `docs`
+- Scope: `components`
+- Cycle: 2026 Telemetry Integration
+
