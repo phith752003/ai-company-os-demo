@@ -2598,3 +2598,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `portfolio`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-22 09:02:17 +0700] refactor(api): streamline api implementation parameters
+- Type: `refactor`
+- Scope: `api`
+- Cycle: 2026 Telemetry Integration
+
