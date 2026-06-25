@@ -2683,3 +2683,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `styles`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-25 15:54:32 +0700] feat(seo): implement resume download tracking and telemetry logging
+- Type: `feat`
+- Scope: `seo`
+- Cycle: 2026 Telemetry Integration
+
