@@ -2688,3 +2688,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `seo`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-25 15:56:36 +0700] fix(animations): verify animations implementation parameters
+- Type: `fix`
+- Scope: `animations`
+- Cycle: 2026 Telemetry Integration
+
