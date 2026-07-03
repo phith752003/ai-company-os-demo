@@ -2803,3 +2803,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `animations`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-03 10:25:52 +0700] feat(telemetry): implement resume download tracking and telemetry logging
+- Type: `feat`
+- Scope: `telemetry`
+- Cycle: 2026 Telemetry Integration
+
