@@ -2903,3 +2903,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `styles`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-09 10:18:30 +0700] feat(seo): support dark/light mode toggle with system preference sync
+- Type: `feat`
+- Scope: `seo`
+- Cycle: 2026 Telemetry Integration
+
