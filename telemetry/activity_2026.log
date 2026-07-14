@@ -595,3 +595,4 @@
 [2026-07-13 21:35:36 +0700] [COMMIT #591] perf(styles): lazy load offscreen project showcase images [status: ok]
 [2026-07-14 11:02:18 +0700] [COMMIT #592] refactor(seo): harden seo implementation parameters [status: ok]
 [2026-07-14 12:29:06 +0700] [COMMIT #593] refactor(animations): extract reusable button and badge primitives into design system [status: ok]
+[2026-07-14 15:54:25 +0700] [COMMIT #594] style(telemetry): tune accent gradient hues and glowing shadow drop values [status: ok]
