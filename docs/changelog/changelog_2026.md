@@ -2993,3 +2993,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `auth`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-15 21:52:10 +0700] feat(router): add interactive particle background canvas effect
+- Type: `feat`
+- Scope: `router`
+- Cycle: 2026 Telemetry Integration
+
