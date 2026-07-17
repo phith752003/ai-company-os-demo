@@ -3023,3 +3023,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `animations`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-17 16:38:50 +0700] feat(telemetry): support dark/light mode toggle with system preference sync
+- Type: `feat`
+- Scope: `telemetry`
+- Cycle: 2026 Telemetry Integration
+
