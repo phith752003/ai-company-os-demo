@@ -3048,3 +3048,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `auth`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-18 21:59:14 +0700] fix(router): streamline router implementation parameters
+- Type: `fix`
+- Scope: `router`
+- Cycle: 2026 Telemetry Integration
+
