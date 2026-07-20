@@ -3073,3 +3073,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `seo`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-20 22:35:31 +0700] perf(animations): lazy load offscreen project showcase images
+- Type: `perf`
+- Scope: `animations`
+- Cycle: 2026 Telemetry Integration
+
