@@ -3098,3 +3098,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `api`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-21 17:28:18 +0700] docs(auth): update architecture documentation and deployment guide
+- Type: `docs`
+- Scope: `auth`
+- Cycle: 2026 Telemetry Integration
+
