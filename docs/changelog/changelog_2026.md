@@ -3108,3 +3108,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `router`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-22 12:14:33 +0700] test(store): harden store implementation parameters
+- Type: `test`
+- Scope: `store`
+- Cycle: 2026 Telemetry Integration
+
