@@ -3113,3 +3113,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `store`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-22 14:31:49 +0700] feat(components): add interactive particle background canvas effect
+- Type: `feat`
+- Scope: `components`
+- Cycle: 2026 Telemetry Integration
+
