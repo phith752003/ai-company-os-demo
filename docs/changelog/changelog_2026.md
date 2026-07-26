@@ -3168,3 +3168,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `store`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-26 12:52:51 +0700] fix(components): refine components implementation parameters
+- Type: `fix`
+- Scope: `components`
+- Cycle: 2026 Telemetry Integration
+
