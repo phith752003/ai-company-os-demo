@@ -3198,3 +3198,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `ui`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-28 08:37:56 +0700] refactor(portfolio): streamline portfolio implementation parameters
+- Type: `refactor`
+- Scope: `portfolio`
+- Cycle: 2026 Telemetry Integration
+
