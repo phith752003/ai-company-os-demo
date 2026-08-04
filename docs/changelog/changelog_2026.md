@@ -3283,3 +3283,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `components`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-08-04 19:59:23 +0700] feat(styles): implement resume download tracking and telemetry logging
+- Type: `feat`
+- Scope: `styles`
+- Cycle: 2026 Telemetry Integration
+
