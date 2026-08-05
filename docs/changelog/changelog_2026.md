@@ -3298,3 +3298,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `animations`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-08-05 18:28:28 +0700] fix(telemetry): correct image aspect ratio distortion on ultrawide viewports
+- Type: `fix`
+- Scope: `telemetry`
+- Cycle: 2026 Telemetry Integration
+
