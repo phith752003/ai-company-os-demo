@@ -666,3 +666,4 @@
 [2026-08-06 15:44:28 +0700] [COMMIT #662] perf(portfolio): implement route-level code splitting and tree shaking [status: ok]
 [2026-08-06 15:54:14 +0700] [COMMIT #663] perf(api): lazy load offscreen project showcase images [status: ok]
 [2026-08-06 22:26:16 +0700] [COMMIT #664] refactor(auth): refine auth implementation parameters [status: ok]
+[2026-08-06 22:27:49 +0700] [COMMIT #665] refactor(router): extract reusable button and badge primitives into design system [status: ok]
