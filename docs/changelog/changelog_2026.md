@@ -3408,3 +3408,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `animations`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-08-13 08:46:39 +0700] fix(telemetry): harden telemetry implementation parameters
+- Type: `fix`
+- Scope: `telemetry`
+- Cycle: 2026 Telemetry Integration
+
