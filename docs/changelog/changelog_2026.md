@@ -3428,3 +3428,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `api`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-08-14 10:09:10 +0700] perf(auth): implement route-level code splitting and tree shaking
+- Type: `perf`
+- Scope: `auth`
+- Cycle: 2026 Telemetry Integration
+
