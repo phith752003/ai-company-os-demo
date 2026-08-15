@@ -691,3 +691,4 @@
 [2026-08-14 10:57:32 +0700] [COMMIT #687] perf(router): lazy load offscreen project showcase images [status: ok]
 [2026-08-14 13:21:15 +0700] [COMMIT #688] refactor(store): verify store implementation parameters [status: ok]
 [2026-08-15 09:22:01 +0700] [COMMIT #689] refactor(components): extract reusable button and badge primitives into design system [status: ok]
+[2026-08-15 16:28:48 +0700] [COMMIT #690] style(styles): tune accent gradient hues and glowing shadow drop values [status: ok]
