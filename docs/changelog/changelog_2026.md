@@ -3528,3 +3528,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `ui`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-08-20 21:33:33 +0700] fix(portfolio): audit portfolio implementation parameters
+- Type: `fix`
+- Scope: `portfolio`
+- Cycle: 2026 Telemetry Integration
+
