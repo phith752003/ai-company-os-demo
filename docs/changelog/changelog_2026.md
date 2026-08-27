@@ -3643,3 +3643,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `portfolio`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-08-27 23:21:28 +0700] feat(api): implement resume download tracking and telemetry logging
+- Type: `feat`
+- Scope: `api`
+- Cycle: 2026 Telemetry Integration
+
