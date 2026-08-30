@@ -3683,3 +3683,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `animations`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-08-30 22:22:24 +0700] refactor(telemetry): extract reusable button and badge primitives into design system
+- Type: `refactor`
+- Scope: `telemetry`
+- Cycle: 2026 Telemetry Integration
+
