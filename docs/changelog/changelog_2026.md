@@ -3708,3 +3708,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `auth`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-09-01 20:22:30 +0700] test(router): harden router implementation parameters
+- Type: `test`
+- Scope: `router`
+- Cycle: 2026 Telemetry Integration
+
